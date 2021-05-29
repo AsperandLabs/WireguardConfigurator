@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireguardConfigurator.UI", "WireguardConfigurator.UI\WireguardConfigurator.UI.csproj", "{4E08F9F7-2A5B-414C-9E4A-4EAE4F982DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireguardConfigurator.Application", "WireguardConfigurator.Application\WireguardConfigurator.Application.csproj", "{E4A14155-ECCA-4047-BAD9-FA7BB4E7C8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireguardConfigurator.Domain", "WireguardConfigurator.Domain\WireguardConfigurator.Domain.csproj", "{F53B5C0C-9A22-4C6F-B392-0A30CC410EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireguardConfigurator.Infrastructure", "WireguardConfigurator.Infrastructure\WireguardConfigurator.Infrastructure.csproj", "{DFA935FD-88AC-43F2-B38E-680545E22EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E08F9F7-2A5B-414C-9E4A-4EAE4F982DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E08F9F7-2A5B-414C-9E4A-4EAE4F982DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E08F9F7-2A5B-414C-9E4A-4EAE4F982DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E08F9F7-2A5B-414C-9E4A-4EAE4F982DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A14155-ECCA-4047-BAD9-FA7BB4E7C8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A14155-ECCA-4047-BAD9-FA7BB4E7C8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A14155-ECCA-4047-BAD9-FA7BB4E7C8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A14155-ECCA-4047-BAD9-FA7BB4E7C8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53B5C0C-9A22-4C6F-B392-0A30CC410EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53B5C0C-9A22-4C6F-B392-0A30CC410EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53B5C0C-9A22-4C6F-B392-0A30CC410EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53B5C0C-9A22-4C6F-B392-0A30CC410EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA935FD-88AC-43F2-B38E-680545E22EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA935FD-88AC-43F2-B38E-680545E22EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA935FD-88AC-43F2-B38E-680545E22EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA935FD-88AC-43F2-B38E-680545E22EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
